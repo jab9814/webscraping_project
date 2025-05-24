@@ -1,6 +1,6 @@
 # 🕷️ Web Scraping Project with Scrapy
 
-Este proyecto está diseñado para extraer información relevante desde múltiples fuentes web utilizando el framework [Scrapy](https://scrapy.org/). La información recopilada se guarda en un archivo estructurado en formato **CSV** para su posterior análisis.
+Este proyecto está diseñado para extraer información relevante deportiva desde múltiples fuentes web utilizando el framework [Scrapy](https://scrapy.org/). La información recopilada se guarda en un archivo estructurado en formato **CSV** para su posterior análisis.
 
 ---
 
